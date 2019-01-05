@@ -23,6 +23,7 @@ public class Message {
         this.author = user;
         this.text = text;
         this.tag = tag;
+        
     }
 
     public String getAuthorName() {
